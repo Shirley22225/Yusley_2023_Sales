@@ -1,7 +1,7 @@
 # Yusley_2023_Sales
 
 - I’m super excited to share this personal.
-- This isn’t just a project—it’s a breakdown of my 2023 sales for **Yusley**, my online ring business!💍✨
+- This isn’t just a project, it’s a breakdown of my 2023 sales for **Yusley**, my online ring business!💍✨
 
 ![Screenshot (924)](https://github.com/user-attachments/assets/fcbaa0c7-e597-40e5-bbee-ff035c2ec612)
 
@@ -16,7 +16,6 @@
 
 - My top-selling rings were the **Rose Gold Ring** and **Gold Plated Ring**
 - so those are definitely here to stay! Meanwhile, I’ve learned which styles might need a refresh or more visibility.
-- 
 
 - This dashboard has actually been a huge help in setting me up for success in 2024, and I’m well on my way to meeting my goal of increasing profits by 20%.
 - It’s crazy how much you can learn from diving into the data.
